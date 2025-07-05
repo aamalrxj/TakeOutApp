@@ -1,0 +1,21 @@
+{
+  "name": "food-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "@react-navigation/native": "^7.1.14",
+    "@react-navigation/stack": "^7.4.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "react-native-safe-area-context": "^5.5.1",
+    "react-native-screens": "^4.11.1"
+  }
+}

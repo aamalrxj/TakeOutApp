@@ -71,4 +71,7 @@ Commit your changes (git commit -am 'Add feature')
 Push to the branch (git push origin feature/your-feature)
 Create a new Pull Request
 
+![alt text](https://github.com/aamalrxj/TakeOutApp/blob/main/Screenshot%202026-11-03%20002957.png)
+![alt text](https://github.com/aamalrxj/TakeOutApp/blob/main/Screenshot%202026-11-03%20003039.png)
+![alt text](https://github.com/aamalrxj/TakeOutApp/blob/main/Screenshot%202026-11-03%20003018.png)
 Demo Video - https://drive.google.com/file/d/1qfj8B0r2HmklLjpdaZcUveO9LoTU5KGM/view?usp=drive_link

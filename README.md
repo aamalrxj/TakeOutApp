@@ -65,38 +65,10 @@ npx expo start	Start Expo (mobile/web)
 npx expo start --web	Start Expo in web mode
 npm start	Start React web app (if standalone)
 
-📝 Folder Structure
-text
-TakeOutApp/
-  food-frontend/
-    App.js
-    CheckoutPage.js
-    OrderStatus.js
-    DeliveryMap.native.js
-    DeliveryMap.web.js
-    ...
-  food-backend/
-    index.js
-    package.json
-    ...
-🧹 .gitignore Example
-At the root and in each subfolder:
-text
-node_modules/
-npm-debug.log
-.env
-.expo/
-.expo-shared/
-dist/
-web-build/
-
-🧑‍💻 Contributing
-
+Contributing
 Fork the repo
 Create your feature branch (git checkout -b feature/your-feature)
 Commit your changes (git commit -am 'Add feature')
 Push to the branch (git push origin feature/your-feature)
 Create a new Pull Request
 
-AI Used:
-Perplexity AI

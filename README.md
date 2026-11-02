@@ -65,10 +65,10 @@ npx expo start	Start Expo (mobile/web)
 npx expo start --web	Start Expo in web mode
 npm start	Start React web app (if standalone)
 
-Demo Video - https://drive.google.com/file/d/1qfj8B0r2HmklLjpdaZcUveO9LoTU5KGM/view?usp=drive_link
 Fork the repo
 Create your feature branch (git checkout -b feature/your-feature)
 Commit your changes (git commit -am 'Add feature')
 Push to the branch (git push origin feature/your-feature)
 Create a new Pull Request
 
+Demo Video - https://drive.google.com/file/d/1qfj8B0r2HmklLjpdaZcUveO9LoTU5KGM/view?usp=drive_link
